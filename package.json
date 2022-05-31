@@ -1,0 +1,13 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "node npm learning",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Kaloyan Ganchev",
+  "license": "ISC"
+}
